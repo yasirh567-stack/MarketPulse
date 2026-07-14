@@ -2,7 +2,7 @@
 
 **Real-Time Stock Sentiment and Market Intelligence Platform**
 
-> Educational/portfolio project. Nothing in this application is financial advice,
+> Portfolio project. Nothing in this application is financial advice,
 > and no model or backtest output guarantees any investment outcome.
 
 ![Landing page](docs/screenshots/landing.png)
