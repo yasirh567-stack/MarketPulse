@@ -2,8 +2,7 @@
 
 **Real-Time Stock Sentiment and Market Intelligence Platform**
 
-> Portfolio project. Nothing in this application is financial advice,
-> and no model or backtest output guarantees any investment outcome.
+> Portfolio project. 
 
 ![Landing page](docs/screenshots/landing.png)
 ![Dashboard](docs/screenshots/dashboard.png)
@@ -20,7 +19,7 @@ a scripted walkthrough.)*
 MarketPulse AI is a full-stack platform that pulls together market data, financial
 news, NLP sentiment scoring, explainable machine learning, and rigorous
 walk-forward backtesting into one transparent research dashboard. It runs entirely
-for free — no paid APIs, no paid cloud, no OpenAI key — and ships a complete
+for free with no paid APIs, no paid cloud, no OpenAI key and ships a complete
 **demo mode** so it can be explored end to end with zero configuration and zero
 API keys. Every piece of data displayed is explicitly labeled `live`, `delayed`,
 `historical`, `cached`, or `demo`, so nothing is ever presented as something it
