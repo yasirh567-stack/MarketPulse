@@ -1,0 +1,47 @@
+{
+  "ticker": "GME",
+  "articles": [
+    {
+      "hours_ago": 95,
+      "title": "GameStop Reports Narrower Quarterly Loss",
+      "summary": "GameStop reported a smaller quarterly loss than analysts expected, as cost-cutting measures partially offset declining store traffic.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/gme/0"
+    },
+    {
+      "hours_ago": 70,
+      "title": "GameStop Announces Store Closures as Part of Restructuring",
+      "summary": "GameStop said it would close a number of underperforming stores as part of an ongoing turnaround effort.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/gme/1"
+    },
+    {
+      "hours_ago": 52,
+      "title": "GameStop Executive Departs Amid Strategy Shift",
+      "summary": "A senior GameStop executive left the company as leadership continues to reassess the retailer's long-term strategy.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/gme/2"
+    },
+    {
+      "hours_ago": 38,
+      "title": "GameStop Shares Spike on Heavy Retail Trading Volume",
+      "summary": "GameStop shares saw a sharp rise in volatility amid unusually heavy retail trading activity.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/gme/3"
+    },
+    {
+      "hours_ago": 22,
+      "title": "GameStop Faces Shareholder Lawsuit Over Disclosures",
+      "summary": "GameStop was named in a shareholder lawsuit alleging inadequate disclosure of certain business risks.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/gme/4"
+    },
+    {
+      "hours_ago": 9,
+      "title": "Analyst Downgrades GameStop on Turnaround Uncertainty",
+      "summary": "An analyst downgraded GameStop shares, citing continued uncertainty about the pace of the company's turnaround plan.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/gme/5"
+    }
+  ]
+}

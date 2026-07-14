@@ -1,0 +1,326 @@
+{
+  "generation_method": "seeded random walk (demo synthetic data, NOT real FRED/Wilshire figures)",
+  "seed": 2001,
+  "quarterly_observations": [
+    {
+      "quarters_ago": 79,
+      "ratio_pct": 62.44
+    },
+    {
+      "quarters_ago": 78,
+      "ratio_pct": 61.34
+    },
+    {
+      "quarters_ago": 77,
+      "ratio_pct": 68.61
+    },
+    {
+      "quarters_ago": 76,
+      "ratio_pct": 71.84
+    },
+    {
+      "quarters_ago": 75,
+      "ratio_pct": 78.68
+    },
+    {
+      "quarters_ago": 74,
+      "ratio_pct": 77.93
+    },
+    {
+      "quarters_ago": 73,
+      "ratio_pct": 72.28
+    },
+    {
+      "quarters_ago": 72,
+      "ratio_pct": 70.25
+    },
+    {
+      "quarters_ago": 71,
+      "ratio_pct": 67.0
+    },
+    {
+      "quarters_ago": 70,
+      "ratio_pct": 63.6
+    },
+    {
+      "quarters_ago": 69,
+      "ratio_pct": 64.65
+    },
+    {
+      "quarters_ago": 68,
+      "ratio_pct": 68.33
+    },
+    {
+      "quarters_ago": 67,
+      "ratio_pct": 68.24
+    },
+    {
+      "quarters_ago": 66,
+      "ratio_pct": 67.86
+    },
+    {
+      "quarters_ago": 65,
+      "ratio_pct": 73.3
+    },
+    {
+      "quarters_ago": 64,
+      "ratio_pct": 72.32
+    },
+    {
+      "quarters_ago": 63,
+      "ratio_pct": 71.19
+    },
+    {
+      "quarters_ago": 62,
+      "ratio_pct": 68.73
+    },
+    {
+      "quarters_ago": 61,
+      "ratio_pct": 62.56
+    },
+    {
+      "quarters_ago": 60,
+      "ratio_pct": 70.85
+    },
+    {
+      "quarters_ago": 59,
+      "ratio_pct": 68.56
+    },
+    {
+      "quarters_ago": 58,
+      "ratio_pct": 70.28
+    },
+    {
+      "quarters_ago": 57,
+      "ratio_pct": 70.09
+    },
+    {
+      "quarters_ago": 56,
+      "ratio_pct": 66.35
+    },
+    {
+      "quarters_ago": 55,
+      "ratio_pct": 67.49
+    },
+    {
+      "quarters_ago": 54,
+      "ratio_pct": 74.86
+    },
+    {
+      "quarters_ago": 53,
+      "ratio_pct": 81.21
+    },
+    {
+      "quarters_ago": 52,
+      "ratio_pct": 88.34
+    },
+    {
+      "quarters_ago": 51,
+      "ratio_pct": 90.8
+    },
+    {
+      "quarters_ago": 50,
+      "ratio_pct": 89.58
+    },
+    {
+      "quarters_ago": 49,
+      "ratio_pct": 92.8
+    },
+    {
+      "quarters_ago": 48,
+      "ratio_pct": 104.33
+    },
+    {
+      "quarters_ago": 47,
+      "ratio_pct": 103.58
+    },
+    {
+      "quarters_ago": 46,
+      "ratio_pct": 112.56
+    },
+    {
+      "quarters_ago": 45,
+      "ratio_pct": 111.53
+    },
+    {
+      "quarters_ago": 44,
+      "ratio_pct": 109.35
+    },
+    {
+      "quarters_ago": 43,
+      "ratio_pct": 110.08
+    },
+    {
+      "quarters_ago": 42,
+      "ratio_pct": 110.25
+    },
+    {
+      "quarters_ago": 41,
+      "ratio_pct": 107.29
+    },
+    {
+      "quarters_ago": 40,
+      "ratio_pct": 115.71
+    },
+    {
+      "quarters_ago": 39,
+      "ratio_pct": 124.02
+    },
+    {
+      "quarters_ago": 38,
+      "ratio_pct": 124.39
+    },
+    {
+      "quarters_ago": 37,
+      "ratio_pct": 118.78
+    },
+    {
+      "quarters_ago": 36,
+      "ratio_pct": 128.15
+    },
+    {
+      "quarters_ago": 35,
+      "ratio_pct": 121.97
+    },
+    {
+      "quarters_ago": 34,
+      "ratio_pct": 116.2
+    },
+    {
+      "quarters_ago": 33,
+      "ratio_pct": 119.34
+    },
+    {
+      "quarters_ago": 32,
+      "ratio_pct": 115.26
+    },
+    {
+      "quarters_ago": 31,
+      "ratio_pct": 113.18
+    },
+    {
+      "quarters_ago": 30,
+      "ratio_pct": 118.47
+    },
+    {
+      "quarters_ago": 29,
+      "ratio_pct": 119.72
+    },
+    {
+      "quarters_ago": 28,
+      "ratio_pct": 117.24
+    },
+    {
+      "quarters_ago": 27,
+      "ratio_pct": 117.66
+    },
+    {
+      "quarters_ago": 26,
+      "ratio_pct": 110.72
+    },
+    {
+      "quarters_ago": 25,
+      "ratio_pct": 106.92
+    },
+    {
+      "quarters_ago": 24,
+      "ratio_pct": 113.87
+    },
+    {
+      "quarters_ago": 23,
+      "ratio_pct": 123.17
+    },
+    {
+      "quarters_ago": 22,
+      "ratio_pct": 128.89
+    },
+    {
+      "quarters_ago": 21,
+      "ratio_pct": 134.5
+    },
+    {
+      "quarters_ago": 20,
+      "ratio_pct": 133.69
+    },
+    {
+      "quarters_ago": 19,
+      "ratio_pct": 128.99
+    },
+    {
+      "quarters_ago": 18,
+      "ratio_pct": 136.17
+    },
+    {
+      "quarters_ago": 17,
+      "ratio_pct": 135.31
+    },
+    {
+      "quarters_ago": 16,
+      "ratio_pct": 140.34
+    },
+    {
+      "quarters_ago": 15,
+      "ratio_pct": 142.96
+    },
+    {
+      "quarters_ago": 14,
+      "ratio_pct": 146.53
+    },
+    {
+      "quarters_ago": 13,
+      "ratio_pct": 150.08
+    },
+    {
+      "quarters_ago": 12,
+      "ratio_pct": 152.87
+    },
+    {
+      "quarters_ago": 11,
+      "ratio_pct": 153.23
+    },
+    {
+      "quarters_ago": 10,
+      "ratio_pct": 152.86
+    },
+    {
+      "quarters_ago": 9,
+      "ratio_pct": 156.81
+    },
+    {
+      "quarters_ago": 8,
+      "ratio_pct": 157.01
+    },
+    {
+      "quarters_ago": 7,
+      "ratio_pct": 158.29
+    },
+    {
+      "quarters_ago": 6,
+      "ratio_pct": 160.74
+    },
+    {
+      "quarters_ago": 5,
+      "ratio_pct": 165.05
+    },
+    {
+      "quarters_ago": 4,
+      "ratio_pct": 157.22
+    },
+    {
+      "quarters_ago": 3,
+      "ratio_pct": 157.41
+    },
+    {
+      "quarters_ago": 2,
+      "ratio_pct": 160.09
+    },
+    {
+      "quarters_ago": 1,
+      "ratio_pct": 167.59
+    },
+    {
+      "quarters_ago": 0,
+      "ratio_pct": 172.35
+    }
+  ]
+}

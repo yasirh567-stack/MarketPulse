@@ -1,0 +1,54 @@
+{
+  "ticker": "CHTR",
+  "articles": [
+    {
+      "hours_ago": 85,
+      "title": "Charter Reports Broadband Subscriber Losses",
+      "summary": "Charter Communications reported a decline in broadband subscribers for the quarter, citing intensifying competition from fixed wireless providers.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/chtr/0"
+    },
+    {
+      "hours_ago": 62,
+      "title": "Charter Lowers Full-Year Subscriber Guidance",
+      "summary": "Charter cut its full-year subscriber growth outlook, pointing to a more competitive residential broadband market than previously expected.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/chtr/1"
+    },
+    {
+      "hours_ago": 48,
+      "title": "Charter Announces Merger Talks With Cox Communications",
+      "summary": "Charter confirmed it was in discussions regarding a potential merger with Cox Communications, a move that would reshape the cable industry landscape.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/chtr/2"
+    },
+    {
+      "hours_ago": 34,
+      "title": "Charter Faces Investigation Over Billing Practices",
+      "summary": "State regulators opened an inquiry into Charter's Spectrum billing practices following a rise in customer complaints.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/chtr/3"
+    },
+    {
+      "hours_ago": 20,
+      "title": "Charter Launches New Spectrum Mobile Bundle",
+      "summary": "Charter unveiled a new bundled mobile and broadband plan under its Spectrum brand, aiming to slow subscriber losses to competitors.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/chtr/4"
+    },
+    {
+      "hours_ago": 11,
+      "title": "Analyst Downgrades Charter on Competitive Pressure",
+      "summary": "An analyst downgraded Charter shares, citing sustained competitive pressure from fiber and fixed wireless broadband alternatives.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/chtr/5"
+    },
+    {
+      "hours_ago": 4,
+      "title": "Charter Declares Quarterly Dividend",
+      "summary": "Charter's board declared its regular quarterly dividend, payable to shareholders of record next month.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/chtr/6"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "MSFT",
+  "articles": [
+    {
+      "hours_ago": 80,
+      "title": "Microsoft Quarterly Cloud Revenue Beats Expectations",
+      "summary": "Microsoft's Azure and cloud segment grew faster than analysts expected, lifting overall quarterly results above consensus.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/msft/0"
+    },
+    {
+      "hours_ago": 55,
+      "title": "Microsoft Announces Acquisition of AI Startup",
+      "summary": "Microsoft agreed to acquire a smaller AI infrastructure startup to bolster its cloud and enterprise AI offerings, terms undisclosed.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/msft/1"
+    },
+    {
+      "hours_ago": 40,
+      "title": "Analyst Downgrades Microsoft on Valuation Concerns",
+      "summary": "An analyst moved to a neutral rating on Microsoft, citing a stretched valuation after the stock's recent run-up.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/msft/2"
+    },
+    {
+      "hours_ago": 28,
+      "title": "Microsoft Declares Increased Quarterly Dividend",
+      "summary": "Microsoft's board approved a dividend increase, marking another consecutive year of payout growth.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/msft/3"
+    },
+    {
+      "hours_ago": 14,
+      "title": "Microsoft Executive Steps Down",
+      "summary": "A senior Microsoft executive announced plans to leave the company, with an internal successor named on an interim basis.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/msft/4"
+    },
+    {
+      "hours_ago": 6,
+      "title": "Microsoft Launches New AI-Powered Product Suite",
+      "summary": "Microsoft rolled out a new suite of AI-integrated productivity tools aimed at enterprise customers.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/msft/5"
+    }
+  ]
+}

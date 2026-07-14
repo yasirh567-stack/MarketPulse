@@ -1,0 +1,45 @@
+[project]
+name = "marketpulse-ai-backend"
+version = "0.1.0"
+description = "MarketPulse AI backend: FastAPI service for market data, sentiment, ML predictions, and backtesting."
+requires-python = ">=3.11"
+readme = "../README.md"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+exclude = ["alembic/versions"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+ignore = ["B008"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["app"]
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
+warn_unused_ignores = false
+disallow_untyped_defs = false
+exclude = ["alembic/versions", "tests"]
+# bleach/redis are used correctly at runtime but ship no type stubs and no
+# `types-*` package was worth adding just to satisfy this; silenced deliberately
+# rather than left as unexplained noise.
+disable_error_code = ["import-untyped"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+addopts = "-ra"
+markers = ["slow: exercises the full ML training pipeline end-to-end (few seconds each)"]
+
+[tool.coverage.run]
+source = ["app"]
+omit = ["app/main.py"]

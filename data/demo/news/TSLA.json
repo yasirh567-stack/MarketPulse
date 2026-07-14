@@ -1,0 +1,47 @@
+{
+  "ticker": "TSLA",
+  "articles": [
+    {
+      "hours_ago": 90,
+      "title": "Tesla Delivery Numbers Miss Analyst Estimates",
+      "summary": "Tesla reported quarterly vehicle deliveries below the average analyst estimate, citing production ramp challenges at a newer facility.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/tsla/0"
+    },
+    {
+      "hours_ago": 65,
+      "title": "Tesla Cuts Full-Year Guidance",
+      "summary": "Tesla lowered its full-year delivery guidance, pointing to softer demand in some international markets.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/tsla/1"
+    },
+    {
+      "hours_ago": 50,
+      "title": "Tesla Under Investigation Over Autopilot Safety Claims",
+      "summary": "Regulators expanded a safety investigation into Tesla's driver-assistance systems following several reported incidents.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/tsla/2"
+    },
+    {
+      "hours_ago": 32,
+      "title": "Tesla Unveils Next-Generation Vehicle Platform",
+      "summary": "Tesla showed off a new vehicle platform at a company event, with production targeted for next year.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/tsla/3"
+    },
+    {
+      "hours_ago": 20,
+      "title": "Analyst Upgrades Tesla Citing Energy Storage Growth",
+      "summary": "An analyst raised their price target on Tesla, highlighting faster-than-expected growth in the company's energy storage business.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/tsla/4"
+    },
+    {
+      "hours_ago": 8,
+      "title": "Tesla CEO Comments Spark Volatility in Shares",
+      "summary": "Tesla shares swung after comments from company leadership about future strategy priorities drew mixed reactions from investors.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/tsla/5"
+    }
+  ]
+}

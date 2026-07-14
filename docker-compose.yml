@@ -1,0 +1,46 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      DEMO_MODE: "${DEMO_MODE:-true}"
+      ENVIRONMENT: "${ENVIRONMENT:-production}"
+      LOG_LEVEL: "${LOG_LEVEL:-INFO}"
+      # SQLite on a mounted volume by default — swap for a Postgres DSN (and
+      # add a `db` service below) with no application code changes needed.
+      DATABASE_URL: "${DATABASE_URL:-sqlite:///./data/marketpulse.db}"
+      REDIS_URL: "${REDIS_URL:-}"
+      CORS_ORIGINS: "${CORS_ORIGINS:-http://localhost:5173,http://localhost:8080}"
+      MARKET_DATA_PROVIDER: "${MARKET_DATA_PROVIDER:-yfinance}"
+      NEWS_PROVIDER: "${NEWS_PROVIDER:-rss}"
+      ENABLE_REDDIT: "${ENABLE_REDDIT:-false}"
+      REDDIT_CLIENT_ID: "${REDDIT_CLIENT_ID:-}"
+      REDDIT_CLIENT_SECRET: "${REDDIT_CLIENT_SECRET:-}"
+      ENABLE_FINBERT: "${ENABLE_FINBERT:-false}"
+      MARKET_POLL_INTERVAL_SECONDS: "${MARKET_POLL_INTERVAL_SECONDS:-15}"
+      RATE_LIMIT_PER_MINUTE: "${RATE_LIMIT_PER_MINUTE:-120}"
+    volumes:
+      - backend-data:/app/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_BASE_URL: "${VITE_API_BASE_URL:-http://localhost:8000}"
+        VITE_WS_BASE_URL: "${VITE_WS_BASE_URL:-ws://localhost:8000}"
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+
+volumes:
+  backend-data:

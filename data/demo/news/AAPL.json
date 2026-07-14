@@ -1,0 +1,54 @@
+{
+  "ticker": "AAPL",
+  "articles": [
+    {
+      "hours_ago": 72,
+      "title": "Apple Reports Quarterly Earnings Above Analyst Estimates",
+      "summary": "Apple posted quarterly revenue and EPS ahead of consensus estimates, driven by stronger-than-expected Services segment growth.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/aapl/0"
+    },
+    {
+      "hours_ago": 60,
+      "title": "Apple Raises Guidance for Upcoming Quarter",
+      "summary": "Apple guided next quarter revenue slightly above the prior consensus range, citing steady demand across its product lineup.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/aapl/1"
+    },
+    {
+      "hours_ago": 48,
+      "title": "Analyst Upgrades Apple to Buy, Cites Services Momentum",
+      "summary": "A sell-side analyst raised their rating on Apple shares, pointing to accelerating high-margin Services revenue as a key upside driver.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/aapl/2"
+    },
+    {
+      "hours_ago": 36,
+      "title": "Apple Unveils New Product Line at Annual Event",
+      "summary": "Apple announced a refreshed product lineup at its annual product event, with shipping expected to begin next month.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/aapl/3"
+    },
+    {
+      "hours_ago": 24,
+      "title": "Apple Faces Regulatory Investigation Over App Store Practices",
+      "summary": "Regulators opened an inquiry into Apple's App Store fee structure, adding to ongoing scrutiny of the company's platform policies.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/aapl/4"
+    },
+    {
+      "hours_ago": 10,
+      "title": "Apple Declares Quarterly Dividend",
+      "summary": "Apple's board declared its regular quarterly cash dividend, payable to shareholders of record next month.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/aapl/5"
+    },
+    {
+      "hours_ago": 4,
+      "title": "Apple Shares Trade Higher Amid Broader Tech Rally",
+      "summary": "Apple shares moved higher along with the broader technology sector as investors rotated back into large-cap growth names.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/aapl/6"
+    }
+  ]
+}

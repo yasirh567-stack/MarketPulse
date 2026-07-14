@@ -1,0 +1,47 @@
+{
+  "ticker": "NVDA",
+  "articles": [
+    {
+      "hours_ago": 75,
+      "title": "NVIDIA Reports Record Data Center Revenue",
+      "summary": "NVIDIA posted another quarter of record data center segment revenue, driven by continued strong demand for AI accelerators.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/nvda/0"
+    },
+    {
+      "hours_ago": 58,
+      "title": "NVIDIA Raises Forward Guidance on AI Chip Demand",
+      "summary": "NVIDIA guided next quarter revenue well above consensus, citing sustained demand for its latest AI training and inference chips.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/nvda/1"
+    },
+    {
+      "hours_ago": 42,
+      "title": "NVIDIA Announces Stock Split",
+      "summary": "NVIDIA's board approved a stock split, aiming to make shares more accessible to a broader base of individual investors.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/nvda/2"
+    },
+    {
+      "hours_ago": 30,
+      "title": "Analyst Raises NVIDIA Price Target on AI Backlog",
+      "summary": "An analyst raised their NVIDIA price target, citing a growing order backlog for next-generation AI accelerator chips.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/nvda/3"
+    },
+    {
+      "hours_ago": 16,
+      "title": "NVIDIA Announces Partnership With Major Cloud Providers",
+      "summary": "NVIDIA expanded partnerships with major cloud providers to deploy its latest chips at scale.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/nvda/4"
+    },
+    {
+      "hours_ago": 5,
+      "title": "NVIDIA Shares Volatile on Chip Export Policy Headlines",
+      "summary": "NVIDIA shares moved on renewed headlines about semiconductor export policy affecting the broader chip sector.",
+      "source": "MarketPulse Demo Wire",
+      "url": "https://example.com/demo-news/nvda/5"
+    }
+  ]
+}

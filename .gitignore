@@ -1,0 +1,62 @@
+# --- Secrets & environment ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# --- Databases & caches ---
+*.db
+*.sqlite
+*.sqlite3
+backend/*.db
+backend/app.db
+backend/marketpulse*.db
+.cache/
+
+# --- ML artifacts ---
+*.joblib
+*.pkl
+*.pt
+*.onnx
+backend/app/ml/artifacts/
+backend/models_store/
+mlruns/
+
+# --- Node / frontend ---
+node_modules/
+frontend/dist/
+frontend/build/
+frontend/coverage/
+frontend/.vite/
+frontend/playwright-report/
+frontend/test-results/
+*.tsbuildinfo
+
+# --- Editors / OS ---
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Docker ---
+*.pid

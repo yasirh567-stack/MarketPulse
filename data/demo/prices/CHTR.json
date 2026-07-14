@@ -1,0 +1,2349 @@
+{
+  "ticker": "CHTR",
+  "name": "Charter Communications, Inc. (Spectrum)",
+  "sector": "Communication Services",
+  "generation_method": "seeded geometric Brownian motion (demo synthetic data)",
+  "seed": 1006,
+  "bars": [
+    {
+      "offset_trading_days": 259,
+      "open": 339.47,
+      "high": 351.29,
+      "low": 335.53,
+      "close": 336.44,
+      "adj_close": 336.44,
+      "volume": 19885435
+    },
+    {
+      "offset_trading_days": 258,
+      "open": 338.22,
+      "high": 344.2,
+      "low": 336.32,
+      "close": 336.67,
+      "adj_close": 336.67,
+      "volume": 14817368
+    },
+    {
+      "offset_trading_days": 257,
+      "open": 340.11,
+      "high": 343.18,
+      "low": 335.36,
+      "close": 338.51,
+      "adj_close": 338.51,
+      "volume": 17319349
+    },
+    {
+      "offset_trading_days": 256,
+      "open": 362.92,
+      "high": 372.98,
+      "low": 362.77,
+      "close": 363.59,
+      "adj_close": 363.59,
+      "volume": 18102367
+    },
+    {
+      "offset_trading_days": 255,
+      "open": 353.26,
+      "high": 371.72,
+      "low": 353.06,
+      "close": 369.29,
+      "adj_close": 369.29,
+      "volume": 11419018
+    },
+    {
+      "offset_trading_days": 254,
+      "open": 357.58,
+      "high": 362.6,
+      "low": 352.65,
+      "close": 356.0,
+      "adj_close": 356.0,
+      "volume": 26497929
+    },
+    {
+      "offset_trading_days": 253,
+      "open": 346.11,
+      "high": 351.77,
+      "low": 340.32,
+      "close": 346.95,
+      "adj_close": 346.95,
+      "volume": 18536558
+    },
+    {
+      "offset_trading_days": 252,
+      "open": 343.64,
+      "high": 345.77,
+      "low": 320.01,
+      "close": 337.5,
+      "adj_close": 337.5,
+      "volume": 17023863
+    },
+    {
+      "offset_trading_days": 251,
+      "open": 337.34,
+      "high": 359.82,
+      "low": 334.44,
+      "close": 343.27,
+      "adj_close": 343.27,
+      "volume": 17145337
+    },
+    {
+      "offset_trading_days": 250,
+      "open": 345.41,
+      "high": 348.44,
+      "low": 338.3,
+      "close": 346.78,
+      "adj_close": 346.78,
+      "volume": 9396466
+    },
+    {
+      "offset_trading_days": 249,
+      "open": 350.4,
+      "high": 359.2,
+      "low": 348.49,
+      "close": 349.42,
+      "adj_close": 349.42,
+      "volume": 16733041
+    },
+    {
+      "offset_trading_days": 248,
+      "open": 351.74,
+      "high": 354.78,
+      "low": 341.84,
+      "close": 347.42,
+      "adj_close": 347.42,
+      "volume": 22265769
+    },
+    {
+      "offset_trading_days": 247,
+      "open": 344.77,
+      "high": 347.6,
+      "low": 341.31,
+      "close": 344.04,
+      "adj_close": 344.04,
+      "volume": 17379351
+    },
+    {
+      "offset_trading_days": 246,
+      "open": 354.73,
+      "high": 359.43,
+      "low": 352.03,
+      "close": 352.24,
+      "adj_close": 352.24,
+      "volume": 15610541
+    },
+    {
+      "offset_trading_days": 245,
+      "open": 348.49,
+      "high": 356.86,
+      "low": 348.08,
+      "close": 349.23,
+      "adj_close": 349.23,
+      "volume": 19345827
+    },
+    {
+      "offset_trading_days": 244,
+      "open": 349.24,
+      "high": 356.68,
+      "low": 347.33,
+      "close": 350.2,
+      "adj_close": 350.2,
+      "volume": 17475627
+    },
+    {
+      "offset_trading_days": 243,
+      "open": 352.14,
+      "high": 352.28,
+      "low": 346.55,
+      "close": 349.91,
+      "adj_close": 349.91,
+      "volume": 38990478
+    },
+    {
+      "offset_trading_days": 242,
+      "open": 342.71,
+      "high": 353.22,
+      "low": 336.74,
+      "close": 344.31,
+      "adj_close": 344.31,
+      "volume": 22957743
+    },
+    {
+      "offset_trading_days": 241,
+      "open": 339.08,
+      "high": 350.53,
+      "low": 332.77,
+      "close": 345.44,
+      "adj_close": 345.44,
+      "volume": 16695054
+    },
+    {
+      "offset_trading_days": 240,
+      "open": 346.76,
+      "high": 354.67,
+      "low": 332.1,
+      "close": 340.46,
+      "adj_close": 340.46,
+      "volume": 22285564
+    },
+    {
+      "offset_trading_days": 239,
+      "open": 355.27,
+      "high": 355.35,
+      "low": 342.68,
+      "close": 346.69,
+      "adj_close": 346.69,
+      "volume": 17362683
+    },
+    {
+      "offset_trading_days": 238,
+      "open": 345.0,
+      "high": 358.37,
+      "low": 332.24,
+      "close": 351.13,
+      "adj_close": 351.13,
+      "volume": 24460608
+    },
+    {
+      "offset_trading_days": 237,
+      "open": 350.71,
+      "high": 365.45,
+      "low": 339.84,
+      "close": 359.6,
+      "adj_close": 359.6,
+      "volume": 16818357
+    },
+    {
+      "offset_trading_days": 236,
+      "open": 362.18,
+      "high": 368.36,
+      "low": 360.47,
+      "close": 361.38,
+      "adj_close": 361.38,
+      "volume": 9794720
+    },
+    {
+      "offset_trading_days": 235,
+      "open": 357.23,
+      "high": 358.08,
+      "low": 353.77,
+      "close": 357.2,
+      "adj_close": 357.2,
+      "volume": 24385835
+    },
+    {
+      "offset_trading_days": 234,
+      "open": 359.24,
+      "high": 368.45,
+      "low": 351.3,
+      "close": 355.14,
+      "adj_close": 355.14,
+      "volume": 15563445
+    },
+    {
+      "offset_trading_days": 233,
+      "open": 364.74,
+      "high": 365.37,
+      "low": 361.29,
+      "close": 363.49,
+      "adj_close": 363.49,
+      "volume": 17225212
+    },
+    {
+      "offset_trading_days": 232,
+      "open": 355.53,
+      "high": 359.85,
+      "low": 343.61,
+      "close": 358.92,
+      "adj_close": 358.92,
+      "volume": 24171122
+    },
+    {
+      "offset_trading_days": 231,
+      "open": 347.21,
+      "high": 349.87,
+      "low": 345.54,
+      "close": 348.33,
+      "adj_close": 348.33,
+      "volume": 12470052
+    },
+    {
+      "offset_trading_days": 230,
+      "open": 348.13,
+      "high": 355.52,
+      "low": 346.35,
+      "close": 353.81,
+      "adj_close": 353.81,
+      "volume": 20095935
+    },
+    {
+      "offset_trading_days": 229,
+      "open": 341.29,
+      "high": 358.32,
+      "low": 339.25,
+      "close": 349.12,
+      "adj_close": 349.12,
+      "volume": 14536556
+    },
+    {
+      "offset_trading_days": 228,
+      "open": 353.02,
+      "high": 367.19,
+      "low": 349.61,
+      "close": 356.19,
+      "adj_close": 356.19,
+      "volume": 26512206
+    },
+    {
+      "offset_trading_days": 227,
+      "open": 345.75,
+      "high": 349.67,
+      "low": 341.45,
+      "close": 346.31,
+      "adj_close": 346.31,
+      "volume": 23678652
+    },
+    {
+      "offset_trading_days": 226,
+      "open": 351.19,
+      "high": 355.67,
+      "low": 349.89,
+      "close": 352.31,
+      "adj_close": 352.31,
+      "volume": 20742040
+    },
+    {
+      "offset_trading_days": 225,
+      "open": 353.36,
+      "high": 374.59,
+      "low": 349.45,
+      "close": 361.88,
+      "adj_close": 361.88,
+      "volume": 18073258
+    },
+    {
+      "offset_trading_days": 224,
+      "open": 359.84,
+      "high": 361.71,
+      "low": 356.51,
+      "close": 358.31,
+      "adj_close": 358.31,
+      "volume": 12029439
+    },
+    {
+      "offset_trading_days": 223,
+      "open": 364.87,
+      "high": 371.04,
+      "low": 359.21,
+      "close": 364.49,
+      "adj_close": 364.49,
+      "volume": 25086526
+    },
+    {
+      "offset_trading_days": 222,
+      "open": 384.28,
+      "high": 384.34,
+      "low": 377.35,
+      "close": 380.74,
+      "adj_close": 380.74,
+      "volume": 22128729
+    },
+    {
+      "offset_trading_days": 221,
+      "open": 395.18,
+      "high": 402.14,
+      "low": 379.12,
+      "close": 385.09,
+      "adj_close": 385.09,
+      "volume": 19053702
+    },
+    {
+      "offset_trading_days": 220,
+      "open": 374.98,
+      "high": 375.5,
+      "low": 355.28,
+      "close": 368.35,
+      "adj_close": 368.35,
+      "volume": 17384546
+    },
+    {
+      "offset_trading_days": 219,
+      "open": 364.19,
+      "high": 365.85,
+      "low": 358.01,
+      "close": 364.28,
+      "adj_close": 364.28,
+      "volume": 13230482
+    },
+    {
+      "offset_trading_days": 218,
+      "open": 371.96,
+      "high": 379.46,
+      "low": 351.34,
+      "close": 359.78,
+      "adj_close": 359.78,
+      "volume": 20861083
+    },
+    {
+      "offset_trading_days": 217,
+      "open": 376.03,
+      "high": 379.02,
+      "low": 369.66,
+      "close": 371.28,
+      "adj_close": 371.28,
+      "volume": 14177761
+    },
+    {
+      "offset_trading_days": 216,
+      "open": 382.58,
+      "high": 383.87,
+      "low": 371.34,
+      "close": 373.83,
+      "adj_close": 373.83,
+      "volume": 14234196
+    },
+    {
+      "offset_trading_days": 215,
+      "open": 367.56,
+      "high": 371.92,
+      "low": 363.99,
+      "close": 364.17,
+      "adj_close": 364.17,
+      "volume": 64571334
+    },
+    {
+      "offset_trading_days": 214,
+      "open": 371.31,
+      "high": 380.74,
+      "low": 359.82,
+      "close": 365.87,
+      "adj_close": 365.87,
+      "volume": 14888457
+    },
+    {
+      "offset_trading_days": 213,
+      "open": 336.0,
+      "high": 340.11,
+      "low": 331.22,
+      "close": 339.83,
+      "adj_close": 339.83,
+      "volume": 28353956
+    },
+    {
+      "offset_trading_days": 212,
+      "open": 347.66,
+      "high": 355.67,
+      "low": 344.13,
+      "close": 348.98,
+      "adj_close": 348.98,
+      "volume": 25806427
+    },
+    {
+      "offset_trading_days": 211,
+      "open": 368.36,
+      "high": 369.13,
+      "low": 352.0,
+      "close": 358.05,
+      "adj_close": 358.05,
+      "volume": 17266552
+    },
+    {
+      "offset_trading_days": 210,
+      "open": 337.49,
+      "high": 341.92,
+      "low": 331.09,
+      "close": 340.22,
+      "adj_close": 340.22,
+      "volume": 11241163
+    },
+    {
+      "offset_trading_days": 209,
+      "open": 330.48,
+      "high": 340.35,
+      "low": 328.41,
+      "close": 329.09,
+      "adj_close": 329.09,
+      "volume": 15919223
+    },
+    {
+      "offset_trading_days": 208,
+      "open": 317.06,
+      "high": 325.25,
+      "low": 310.7,
+      "close": 319.48,
+      "adj_close": 319.48,
+      "volume": 17215420
+    },
+    {
+      "offset_trading_days": 207,
+      "open": 315.13,
+      "high": 318.85,
+      "low": 309.46,
+      "close": 317.86,
+      "adj_close": 317.86,
+      "volume": 19962903
+    },
+    {
+      "offset_trading_days": 206,
+      "open": 324.3,
+      "high": 329.66,
+      "low": 321.91,
+      "close": 322.23,
+      "adj_close": 322.23,
+      "volume": 21340304
+    },
+    {
+      "offset_trading_days": 205,
+      "open": 322.74,
+      "high": 327.21,
+      "low": 320.0,
+      "close": 323.72,
+      "adj_close": 323.72,
+      "volume": 13585079
+    },
+    {
+      "offset_trading_days": 204,
+      "open": 311.82,
+      "high": 317.65,
+      "low": 307.14,
+      "close": 313.89,
+      "adj_close": 313.89,
+      "volume": 32416778
+    },
+    {
+      "offset_trading_days": 203,
+      "open": 315.46,
+      "high": 329.77,
+      "low": 308.4,
+      "close": 318.73,
+      "adj_close": 318.73,
+      "volume": 20091388
+    },
+    {
+      "offset_trading_days": 202,
+      "open": 320.1,
+      "high": 322.27,
+      "low": 314.92,
+      "close": 321.46,
+      "adj_close": 321.46,
+      "volume": 15465756
+    },
+    {
+      "offset_trading_days": 201,
+      "open": 345.34,
+      "high": 350.19,
+      "low": 334.39,
+      "close": 339.79,
+      "adj_close": 339.79,
+      "volume": 15107773
+    },
+    {
+      "offset_trading_days": 200,
+      "open": 344.61,
+      "high": 350.5,
+      "low": 342.88,
+      "close": 346.44,
+      "adj_close": 346.44,
+      "volume": 13603678
+    },
+    {
+      "offset_trading_days": 199,
+      "open": 343.41,
+      "high": 349.6,
+      "low": 341.19,
+      "close": 344.96,
+      "adj_close": 344.96,
+      "volume": 16719303
+    },
+    {
+      "offset_trading_days": 198,
+      "open": 329.27,
+      "high": 336.11,
+      "low": 326.86,
+      "close": 331.55,
+      "adj_close": 331.55,
+      "volume": 21625824
+    },
+    {
+      "offset_trading_days": 197,
+      "open": 331.76,
+      "high": 341.13,
+      "low": 325.34,
+      "close": 338.1,
+      "adj_close": 338.1,
+      "volume": 30613212
+    },
+    {
+      "offset_trading_days": 196,
+      "open": 347.55,
+      "high": 357.41,
+      "low": 341.52,
+      "close": 347.72,
+      "adj_close": 347.72,
+      "volume": 14227055
+    },
+    {
+      "offset_trading_days": 195,
+      "open": 350.89,
+      "high": 359.6,
+      "low": 345.89,
+      "close": 356.9,
+      "adj_close": 356.9,
+      "volume": 28212748
+    },
+    {
+      "offset_trading_days": 194,
+      "open": 353.44,
+      "high": 375.56,
+      "low": 348.2,
+      "close": 361.1,
+      "adj_close": 361.1,
+      "volume": 19780772
+    },
+    {
+      "offset_trading_days": 193,
+      "open": 381.66,
+      "high": 388.67,
+      "low": 378.83,
+      "close": 380.33,
+      "adj_close": 380.33,
+      "volume": 9691489
+    },
+    {
+      "offset_trading_days": 192,
+      "open": 366.4,
+      "high": 367.08,
+      "low": 366.18,
+      "close": 366.78,
+      "adj_close": 366.78,
+      "volume": 17630342
+    },
+    {
+      "offset_trading_days": 191,
+      "open": 363.16,
+      "high": 377.93,
+      "low": 361.67,
+      "close": 372.38,
+      "adj_close": 372.38,
+      "volume": 15833179
+    },
+    {
+      "offset_trading_days": 190,
+      "open": 376.01,
+      "high": 376.74,
+      "low": 372.42,
+      "close": 376.54,
+      "adj_close": 376.54,
+      "volume": 9283710
+    },
+    {
+      "offset_trading_days": 189,
+      "open": 375.84,
+      "high": 381.69,
+      "low": 371.92,
+      "close": 372.49,
+      "adj_close": 372.49,
+      "volume": 15727020
+    },
+    {
+      "offset_trading_days": 188,
+      "open": 386.37,
+      "high": 387.75,
+      "low": 375.97,
+      "close": 377.88,
+      "adj_close": 377.88,
+      "volume": 14361956
+    },
+    {
+      "offset_trading_days": 187,
+      "open": 375.61,
+      "high": 388.12,
+      "low": 362.79,
+      "close": 373.79,
+      "adj_close": 373.79,
+      "volume": 14297004
+    },
+    {
+      "offset_trading_days": 186,
+      "open": 360.3,
+      "high": 367.69,
+      "low": 359.19,
+      "close": 363.05,
+      "adj_close": 363.05,
+      "volume": 35058914
+    },
+    {
+      "offset_trading_days": 185,
+      "open": 356.92,
+      "high": 379.39,
+      "low": 347.89,
+      "close": 366.49,
+      "adj_close": 366.49,
+      "volume": 22493356
+    },
+    {
+      "offset_trading_days": 184,
+      "open": 368.78,
+      "high": 370.57,
+      "low": 362.27,
+      "close": 365.03,
+      "adj_close": 365.03,
+      "volume": 20526505
+    },
+    {
+      "offset_trading_days": 183,
+      "open": 349.48,
+      "high": 356.58,
+      "low": 348.27,
+      "close": 349.35,
+      "adj_close": 349.35,
+      "volume": 22334208
+    },
+    {
+      "offset_trading_days": 182,
+      "open": 352.13,
+      "high": 364.04,
+      "low": 344.89,
+      "close": 356.56,
+      "adj_close": 356.56,
+      "volume": 25905952
+    },
+    {
+      "offset_trading_days": 181,
+      "open": 360.42,
+      "high": 369.87,
+      "low": 356.98,
+      "close": 369.01,
+      "adj_close": 369.01,
+      "volume": 30893663
+    },
+    {
+      "offset_trading_days": 180,
+      "open": 376.81,
+      "high": 379.77,
+      "low": 371.95,
+      "close": 379.62,
+      "adj_close": 379.62,
+      "volume": 16296708
+    },
+    {
+      "offset_trading_days": 179,
+      "open": 372.78,
+      "high": 386.96,
+      "low": 364.45,
+      "close": 372.55,
+      "adj_close": 372.55,
+      "volume": 16985840
+    },
+    {
+      "offset_trading_days": 178,
+      "open": 364.29,
+      "high": 370.59,
+      "low": 356.13,
+      "close": 362.68,
+      "adj_close": 362.68,
+      "volume": 27484305
+    },
+    {
+      "offset_trading_days": 177,
+      "open": 359.5,
+      "high": 368.1,
+      "low": 358.88,
+      "close": 362.6,
+      "adj_close": 362.6,
+      "volume": 22265798
+    },
+    {
+      "offset_trading_days": 176,
+      "open": 363.27,
+      "high": 371.74,
+      "low": 360.8,
+      "close": 362.48,
+      "adj_close": 362.48,
+      "volume": 22305174
+    },
+    {
+      "offset_trading_days": 175,
+      "open": 342.56,
+      "high": 351.63,
+      "low": 341.55,
+      "close": 343.29,
+      "adj_close": 343.29,
+      "volume": 19393653
+    },
+    {
+      "offset_trading_days": 174,
+      "open": 345.51,
+      "high": 347.95,
+      "low": 340.86,
+      "close": 345.04,
+      "adj_close": 345.04,
+      "volume": 13656085
+    },
+    {
+      "offset_trading_days": 173,
+      "open": 348.62,
+      "high": 348.71,
+      "low": 345.53,
+      "close": 345.98,
+      "adj_close": 345.98,
+      "volume": 12417895
+    },
+    {
+      "offset_trading_days": 172,
+      "open": 342.82,
+      "high": 349.44,
+      "low": 341.43,
+      "close": 347.91,
+      "adj_close": 347.91,
+      "volume": 25622485
+    },
+    {
+      "offset_trading_days": 171,
+      "open": 342.78,
+      "high": 350.25,
+      "low": 340.57,
+      "close": 349.43,
+      "adj_close": 349.43,
+      "volume": 18032788
+    },
+    {
+      "offset_trading_days": 170,
+      "open": 360.39,
+      "high": 363.7,
+      "low": 349.66,
+      "close": 358.94,
+      "adj_close": 358.94,
+      "volume": 31149114
+    },
+    {
+      "offset_trading_days": 169,
+      "open": 352.44,
+      "high": 355.0,
+      "low": 344.59,
+      "close": 352.86,
+      "adj_close": 352.86,
+      "volume": 33257599
+    },
+    {
+      "offset_trading_days": 168,
+      "open": 363.58,
+      "high": 368.07,
+      "low": 358.27,
+      "close": 359.77,
+      "adj_close": 359.77,
+      "volume": 17111419
+    },
+    {
+      "offset_trading_days": 167,
+      "open": 373.32,
+      "high": 377.69,
+      "low": 370.62,
+      "close": 370.66,
+      "adj_close": 370.66,
+      "volume": 21628971
+    },
+    {
+      "offset_trading_days": 166,
+      "open": 352.3,
+      "high": 359.21,
+      "low": 347.67,
+      "close": 357.62,
+      "adj_close": 357.62,
+      "volume": 14636067
+    },
+    {
+      "offset_trading_days": 165,
+      "open": 361.18,
+      "high": 362.65,
+      "low": 348.38,
+      "close": 353.59,
+      "adj_close": 353.59,
+      "volume": 16639368
+    },
+    {
+      "offset_trading_days": 164,
+      "open": 340.13,
+      "high": 341.13,
+      "low": 333.82,
+      "close": 335.75,
+      "adj_close": 335.75,
+      "volume": 13818343
+    },
+    {
+      "offset_trading_days": 163,
+      "open": 334.94,
+      "high": 338.13,
+      "low": 332.56,
+      "close": 333.47,
+      "adj_close": 333.47,
+      "volume": 12401533
+    },
+    {
+      "offset_trading_days": 162,
+      "open": 340.41,
+      "high": 345.48,
+      "low": 338.79,
+      "close": 344.54,
+      "adj_close": 344.54,
+      "volume": 25137662
+    },
+    {
+      "offset_trading_days": 161,
+      "open": 341.83,
+      "high": 345.25,
+      "low": 336.47,
+      "close": 343.2,
+      "adj_close": 343.2,
+      "volume": 25346901
+    },
+    {
+      "offset_trading_days": 160,
+      "open": 347.94,
+      "high": 358.07,
+      "low": 340.06,
+      "close": 341.9,
+      "adj_close": 341.9,
+      "volume": 24316869
+    },
+    {
+      "offset_trading_days": 159,
+      "open": 334.58,
+      "high": 354.86,
+      "low": 332.7,
+      "close": 344.28,
+      "adj_close": 344.28,
+      "volume": 10757576
+    },
+    {
+      "offset_trading_days": 158,
+      "open": 338.56,
+      "high": 343.5,
+      "low": 337.29,
+      "close": 340.32,
+      "adj_close": 340.32,
+      "volume": 29918135
+    },
+    {
+      "offset_trading_days": 157,
+      "open": 340.58,
+      "high": 343.85,
+      "low": 334.49,
+      "close": 343.56,
+      "adj_close": 343.56,
+      "volume": 17219724
+    },
+    {
+      "offset_trading_days": 156,
+      "open": 348.25,
+      "high": 363.05,
+      "low": 342.67,
+      "close": 349.66,
+      "adj_close": 349.66,
+      "volume": 27995682
+    },
+    {
+      "offset_trading_days": 155,
+      "open": 332.9,
+      "high": 348.95,
+      "low": 332.89,
+      "close": 339.44,
+      "adj_close": 339.44,
+      "volume": 31306985
+    },
+    {
+      "offset_trading_days": 154,
+      "open": 335.95,
+      "high": 336.37,
+      "low": 327.29,
+      "close": 330.57,
+      "adj_close": 330.57,
+      "volume": 21396152
+    },
+    {
+      "offset_trading_days": 153,
+      "open": 359.74,
+      "high": 362.16,
+      "low": 343.52,
+      "close": 350.94,
+      "adj_close": 350.94,
+      "volume": 15563764
+    },
+    {
+      "offset_trading_days": 152,
+      "open": 355.38,
+      "high": 357.31,
+      "low": 349.79,
+      "close": 352.05,
+      "adj_close": 352.05,
+      "volume": 16097573
+    },
+    {
+      "offset_trading_days": 151,
+      "open": 360.86,
+      "high": 363.43,
+      "low": 355.02,
+      "close": 361.45,
+      "adj_close": 361.45,
+      "volume": 13439072
+    },
+    {
+      "offset_trading_days": 150,
+      "open": 348.27,
+      "high": 358.86,
+      "low": 343.98,
+      "close": 353.93,
+      "adj_close": 353.93,
+      "volume": 23614495
+    },
+    {
+      "offset_trading_days": 149,
+      "open": 361.61,
+      "high": 364.45,
+      "low": 357.92,
+      "close": 359.06,
+      "adj_close": 359.06,
+      "volume": 27208972
+    },
+    {
+      "offset_trading_days": 148,
+      "open": 366.72,
+      "high": 372.68,
+      "low": 364.41,
+      "close": 369.2,
+      "adj_close": 369.2,
+      "volume": 28062102
+    },
+    {
+      "offset_trading_days": 147,
+      "open": 358.52,
+      "high": 367.46,
+      "low": 356.77,
+      "close": 358.93,
+      "adj_close": 358.93,
+      "volume": 20675972
+    },
+    {
+      "offset_trading_days": 146,
+      "open": 363.46,
+      "high": 368.24,
+      "low": 359.65,
+      "close": 366.11,
+      "adj_close": 366.11,
+      "volume": 22646664
+    },
+    {
+      "offset_trading_days": 145,
+      "open": 371.83,
+      "high": 380.59,
+      "low": 355.87,
+      "close": 363.25,
+      "adj_close": 363.25,
+      "volume": 12215198
+    },
+    {
+      "offset_trading_days": 144,
+      "open": 371.62,
+      "high": 376.8,
+      "low": 365.1,
+      "close": 373.88,
+      "adj_close": 373.88,
+      "volume": 15582600
+    },
+    {
+      "offset_trading_days": 143,
+      "open": 367.07,
+      "high": 379.4,
+      "low": 363.74,
+      "close": 370.92,
+      "adj_close": 370.92,
+      "volume": 14527777
+    },
+    {
+      "offset_trading_days": 142,
+      "open": 372.16,
+      "high": 378.51,
+      "low": 360.46,
+      "close": 366.76,
+      "adj_close": 366.76,
+      "volume": 37596421
+    },
+    {
+      "offset_trading_days": 141,
+      "open": 361.47,
+      "high": 368.32,
+      "low": 349.6,
+      "close": 356.69,
+      "adj_close": 356.69,
+      "volume": 25829228
+    },
+    {
+      "offset_trading_days": 140,
+      "open": 364.96,
+      "high": 374.43,
+      "low": 356.82,
+      "close": 367.1,
+      "adj_close": 367.1,
+      "volume": 21329263
+    },
+    {
+      "offset_trading_days": 139,
+      "open": 376.94,
+      "high": 385.74,
+      "low": 373.05,
+      "close": 380.64,
+      "adj_close": 380.64,
+      "volume": 46511749
+    },
+    {
+      "offset_trading_days": 138,
+      "open": 371.97,
+      "high": 381.02,
+      "low": 368.06,
+      "close": 369.66,
+      "adj_close": 369.66,
+      "volume": 13444691
+    },
+    {
+      "offset_trading_days": 137,
+      "open": 367.08,
+      "high": 378.36,
+      "low": 361.19,
+      "close": 371.39,
+      "adj_close": 371.39,
+      "volume": 21564024
+    },
+    {
+      "offset_trading_days": 136,
+      "open": 354.67,
+      "high": 359.52,
+      "low": 349.13,
+      "close": 359.19,
+      "adj_close": 359.19,
+      "volume": 18565349
+    },
+    {
+      "offset_trading_days": 135,
+      "open": 360.25,
+      "high": 364.86,
+      "low": 358.67,
+      "close": 362.48,
+      "adj_close": 362.48,
+      "volume": 16455817
+    },
+    {
+      "offset_trading_days": 134,
+      "open": 359.27,
+      "high": 362.95,
+      "low": 350.09,
+      "close": 361.82,
+      "adj_close": 361.82,
+      "volume": 26130770
+    },
+    {
+      "offset_trading_days": 133,
+      "open": 366.21,
+      "high": 368.98,
+      "low": 357.46,
+      "close": 359.52,
+      "adj_close": 359.52,
+      "volume": 33965616
+    },
+    {
+      "offset_trading_days": 132,
+      "open": 370.09,
+      "high": 374.89,
+      "low": 363.36,
+      "close": 369.67,
+      "adj_close": 369.67,
+      "volume": 13036312
+    },
+    {
+      "offset_trading_days": 131,
+      "open": 364.46,
+      "high": 373.63,
+      "low": 362.54,
+      "close": 369.0,
+      "adj_close": 369.0,
+      "volume": 24334526
+    },
+    {
+      "offset_trading_days": 130,
+      "open": 375.8,
+      "high": 380.01,
+      "low": 373.76,
+      "close": 374.2,
+      "adj_close": 374.2,
+      "volume": 23352630
+    },
+    {
+      "offset_trading_days": 129,
+      "open": 381.6,
+      "high": 383.31,
+      "low": 367.45,
+      "close": 368.58,
+      "adj_close": 368.58,
+      "volume": 13960752
+    },
+    {
+      "offset_trading_days": 128,
+      "open": 353.38,
+      "high": 354.34,
+      "low": 350.86,
+      "close": 353.3,
+      "adj_close": 353.3,
+      "volume": 18533688
+    },
+    {
+      "offset_trading_days": 127,
+      "open": 367.56,
+      "high": 377.8,
+      "low": 347.8,
+      "close": 357.52,
+      "adj_close": 357.52,
+      "volume": 22110506
+    },
+    {
+      "offset_trading_days": 126,
+      "open": 366.88,
+      "high": 379.96,
+      "low": 359.26,
+      "close": 360.78,
+      "adj_close": 360.78,
+      "volume": 21442040
+    },
+    {
+      "offset_trading_days": 125,
+      "open": 359.53,
+      "high": 361.66,
+      "low": 354.41,
+      "close": 359.96,
+      "adj_close": 359.96,
+      "volume": 19569611
+    },
+    {
+      "offset_trading_days": 124,
+      "open": 356.3,
+      "high": 356.71,
+      "low": 350.13,
+      "close": 355.51,
+      "adj_close": 355.51,
+      "volume": 35023094
+    },
+    {
+      "offset_trading_days": 123,
+      "open": 359.78,
+      "high": 361.18,
+      "low": 351.2,
+      "close": 354.58,
+      "adj_close": 354.58,
+      "volume": 14635547
+    },
+    {
+      "offset_trading_days": 122,
+      "open": 344.02,
+      "high": 346.87,
+      "low": 333.65,
+      "close": 345.99,
+      "adj_close": 345.99,
+      "volume": 18828515
+    },
+    {
+      "offset_trading_days": 121,
+      "open": 352.32,
+      "high": 356.34,
+      "low": 346.48,
+      "close": 355.64,
+      "adj_close": 355.64,
+      "volume": 15200933
+    },
+    {
+      "offset_trading_days": 120,
+      "open": 372.54,
+      "high": 374.61,
+      "low": 367.05,
+      "close": 371.2,
+      "adj_close": 371.2,
+      "volume": 25257013
+    },
+    {
+      "offset_trading_days": 119,
+      "open": 370.74,
+      "high": 379.55,
+      "low": 364.62,
+      "close": 366.09,
+      "adj_close": 366.09,
+      "volume": 17683090
+    },
+    {
+      "offset_trading_days": 118,
+      "open": 366.7,
+      "high": 368.78,
+      "low": 353.19,
+      "close": 355.86,
+      "adj_close": 355.86,
+      "volume": 11567853
+    },
+    {
+      "offset_trading_days": 117,
+      "open": 345.63,
+      "high": 352.47,
+      "low": 342.8,
+      "close": 351.87,
+      "adj_close": 351.87,
+      "volume": 19717634
+    },
+    {
+      "offset_trading_days": 116,
+      "open": 338.98,
+      "high": 342.25,
+      "low": 333.66,
+      "close": 335.55,
+      "adj_close": 335.55,
+      "volume": 28152697
+    },
+    {
+      "offset_trading_days": 115,
+      "open": 317.55,
+      "high": 323.77,
+      "low": 317.41,
+      "close": 319.02,
+      "adj_close": 319.02,
+      "volume": 24056131
+    },
+    {
+      "offset_trading_days": 114,
+      "open": 326.84,
+      "high": 333.86,
+      "low": 318.27,
+      "close": 320.61,
+      "adj_close": 320.61,
+      "volume": 15232289
+    },
+    {
+      "offset_trading_days": 113,
+      "open": 303.54,
+      "high": 306.48,
+      "low": 297.87,
+      "close": 303.14,
+      "adj_close": 303.14,
+      "volume": 18442932
+    },
+    {
+      "offset_trading_days": 112,
+      "open": 299.23,
+      "high": 302.43,
+      "low": 298.35,
+      "close": 299.35,
+      "adj_close": 299.35,
+      "volume": 25800948
+    },
+    {
+      "offset_trading_days": 111,
+      "open": 296.12,
+      "high": 301.44,
+      "low": 290.2,
+      "close": 292.16,
+      "adj_close": 292.16,
+      "volume": 21008522
+    },
+    {
+      "offset_trading_days": 110,
+      "open": 284.17,
+      "high": 288.59,
+      "low": 274.28,
+      "close": 280.23,
+      "adj_close": 280.23,
+      "volume": 28298047
+    },
+    {
+      "offset_trading_days": 109,
+      "open": 275.86,
+      "high": 281.69,
+      "low": 274.4,
+      "close": 279.69,
+      "adj_close": 279.69,
+      "volume": 21124505
+    },
+    {
+      "offset_trading_days": 108,
+      "open": 288.79,
+      "high": 293.17,
+      "low": 277.63,
+      "close": 280.04,
+      "adj_close": 280.04,
+      "volume": 23639312
+    },
+    {
+      "offset_trading_days": 107,
+      "open": 271.01,
+      "high": 276.27,
+      "low": 268.19,
+      "close": 269.34,
+      "adj_close": 269.34,
+      "volume": 13285948
+    },
+    {
+      "offset_trading_days": 106,
+      "open": 270.06,
+      "high": 273.24,
+      "low": 264.95,
+      "close": 269.01,
+      "adj_close": 269.01,
+      "volume": 22423749
+    },
+    {
+      "offset_trading_days": 105,
+      "open": 257.74,
+      "high": 263.44,
+      "low": 254.76,
+      "close": 255.24,
+      "adj_close": 255.24,
+      "volume": 22732276
+    },
+    {
+      "offset_trading_days": 104,
+      "open": 255.35,
+      "high": 255.81,
+      "low": 248.89,
+      "close": 252.16,
+      "adj_close": 252.16,
+      "volume": 18452990
+    },
+    {
+      "offset_trading_days": 103,
+      "open": 261.09,
+      "high": 262.26,
+      "low": 252.12,
+      "close": 254.14,
+      "adj_close": 254.14,
+      "volume": 20424073
+    },
+    {
+      "offset_trading_days": 102,
+      "open": 262.35,
+      "high": 269.13,
+      "low": 259.37,
+      "close": 260.59,
+      "adj_close": 260.59,
+      "volume": 12420109
+    },
+    {
+      "offset_trading_days": 101,
+      "open": 262.65,
+      "high": 264.52,
+      "low": 260.25,
+      "close": 261.47,
+      "adj_close": 261.47,
+      "volume": 17159452
+    },
+    {
+      "offset_trading_days": 100,
+      "open": 258.09,
+      "high": 262.24,
+      "low": 256.36,
+      "close": 256.49,
+      "adj_close": 256.49,
+      "volume": 17613013
+    },
+    {
+      "offset_trading_days": 99,
+      "open": 255.77,
+      "high": 256.69,
+      "low": 247.03,
+      "close": 252.56,
+      "adj_close": 252.56,
+      "volume": 42888750
+    },
+    {
+      "offset_trading_days": 98,
+      "open": 249.78,
+      "high": 254.66,
+      "low": 246.91,
+      "close": 247.36,
+      "adj_close": 247.36,
+      "volume": 18260199
+    },
+    {
+      "offset_trading_days": 97,
+      "open": 237.8,
+      "high": 251.58,
+      "low": 237.08,
+      "close": 246.03,
+      "adj_close": 246.03,
+      "volume": 22659971
+    },
+    {
+      "offset_trading_days": 96,
+      "open": 244.51,
+      "high": 251.95,
+      "low": 242.35,
+      "close": 246.92,
+      "adj_close": 246.92,
+      "volume": 26478281
+    },
+    {
+      "offset_trading_days": 95,
+      "open": 246.55,
+      "high": 249.76,
+      "low": 240.3,
+      "close": 244.31,
+      "adj_close": 244.31,
+      "volume": 18553094
+    },
+    {
+      "offset_trading_days": 94,
+      "open": 234.21,
+      "high": 242.63,
+      "low": 230.68,
+      "close": 233.71,
+      "adj_close": 233.71,
+      "volume": 14314923
+    },
+    {
+      "offset_trading_days": 93,
+      "open": 235.33,
+      "high": 242.04,
+      "low": 231.23,
+      "close": 238.68,
+      "adj_close": 238.68,
+      "volume": 20034017
+    },
+    {
+      "offset_trading_days": 92,
+      "open": 237.79,
+      "high": 244.69,
+      "low": 234.07,
+      "close": 236.88,
+      "adj_close": 236.88,
+      "volume": 20373456
+    },
+    {
+      "offset_trading_days": 91,
+      "open": 242.17,
+      "high": 243.03,
+      "low": 235.47,
+      "close": 240.53,
+      "adj_close": 240.53,
+      "volume": 10011502
+    },
+    {
+      "offset_trading_days": 90,
+      "open": 242.83,
+      "high": 249.44,
+      "low": 241.74,
+      "close": 246.98,
+      "adj_close": 246.98,
+      "volume": 16977040
+    },
+    {
+      "offset_trading_days": 89,
+      "open": 237.08,
+      "high": 245.07,
+      "low": 236.97,
+      "close": 240.46,
+      "adj_close": 240.46,
+      "volume": 35383525
+    },
+    {
+      "offset_trading_days": 88,
+      "open": 236.8,
+      "high": 242.11,
+      "low": 230.48,
+      "close": 232.99,
+      "adj_close": 232.99,
+      "volume": 22937781
+    },
+    {
+      "offset_trading_days": 87,
+      "open": 234.34,
+      "high": 240.54,
+      "low": 228.62,
+      "close": 238.58,
+      "adj_close": 238.58,
+      "volume": 16306785
+    },
+    {
+      "offset_trading_days": 86,
+      "open": 243.28,
+      "high": 245.05,
+      "low": 239.2,
+      "close": 239.27,
+      "adj_close": 239.27,
+      "volume": 21419051
+    },
+    {
+      "offset_trading_days": 85,
+      "open": 235.23,
+      "high": 245.51,
+      "low": 233.0,
+      "close": 242.28,
+      "adj_close": 242.28,
+      "volume": 28694884
+    },
+    {
+      "offset_trading_days": 84,
+      "open": 236.41,
+      "high": 240.55,
+      "low": 232.1,
+      "close": 235.62,
+      "adj_close": 235.62,
+      "volume": 27326031
+    },
+    {
+      "offset_trading_days": 83,
+      "open": 239.58,
+      "high": 244.67,
+      "low": 233.41,
+      "close": 235.75,
+      "adj_close": 235.75,
+      "volume": 14117268
+    },
+    {
+      "offset_trading_days": 82,
+      "open": 240.43,
+      "high": 243.59,
+      "low": 233.24,
+      "close": 237.16,
+      "adj_close": 237.16,
+      "volume": 19735969
+    },
+    {
+      "offset_trading_days": 81,
+      "open": 238.72,
+      "high": 243.7,
+      "low": 237.73,
+      "close": 242.03,
+      "adj_close": 242.03,
+      "volume": 21837945
+    },
+    {
+      "offset_trading_days": 80,
+      "open": 239.52,
+      "high": 243.74,
+      "low": 231.89,
+      "close": 238.86,
+      "adj_close": 238.86,
+      "volume": 21779528
+    },
+    {
+      "offset_trading_days": 79,
+      "open": 236.69,
+      "high": 241.09,
+      "low": 235.14,
+      "close": 235.31,
+      "adj_close": 235.31,
+      "volume": 35366119
+    },
+    {
+      "offset_trading_days": 78,
+      "open": 227.57,
+      "high": 234.79,
+      "low": 220.25,
+      "close": 229.21,
+      "adj_close": 229.21,
+      "volume": 19728765
+    },
+    {
+      "offset_trading_days": 77,
+      "open": 248.21,
+      "high": 256.4,
+      "low": 238.05,
+      "close": 241.57,
+      "adj_close": 241.57,
+      "volume": 18270459
+    },
+    {
+      "offset_trading_days": 76,
+      "open": 242.56,
+      "high": 250.43,
+      "low": 240.76,
+      "close": 245.65,
+      "adj_close": 245.65,
+      "volume": 29002622
+    },
+    {
+      "offset_trading_days": 75,
+      "open": 249.18,
+      "high": 253.25,
+      "low": 246.25,
+      "close": 252.26,
+      "adj_close": 252.26,
+      "volume": 22217564
+    },
+    {
+      "offset_trading_days": 74,
+      "open": 250.43,
+      "high": 253.64,
+      "low": 247.35,
+      "close": 248.26,
+      "adj_close": 248.26,
+      "volume": 24899253
+    },
+    {
+      "offset_trading_days": 73,
+      "open": 252.94,
+      "high": 262.49,
+      "low": 247.97,
+      "close": 252.15,
+      "adj_close": 252.15,
+      "volume": 6856998
+    },
+    {
+      "offset_trading_days": 72,
+      "open": 250.9,
+      "high": 254.99,
+      "low": 242.13,
+      "close": 248.18,
+      "adj_close": 248.18,
+      "volume": 31575511
+    },
+    {
+      "offset_trading_days": 71,
+      "open": 262.8,
+      "high": 264.63,
+      "low": 258.57,
+      "close": 263.36,
+      "adj_close": 263.36,
+      "volume": 24673663
+    },
+    {
+      "offset_trading_days": 70,
+      "open": 263.65,
+      "high": 274.05,
+      "low": 258.3,
+      "close": 258.77,
+      "adj_close": 258.77,
+      "volume": 20656189
+    },
+    {
+      "offset_trading_days": 69,
+      "open": 254.21,
+      "high": 260.74,
+      "low": 252.75,
+      "close": 253.02,
+      "adj_close": 253.02,
+      "volume": 37861555
+    },
+    {
+      "offset_trading_days": 68,
+      "open": 247.05,
+      "high": 251.53,
+      "low": 241.81,
+      "close": 249.07,
+      "adj_close": 249.07,
+      "volume": 17302614
+    },
+    {
+      "offset_trading_days": 67,
+      "open": 247.31,
+      "high": 251.34,
+      "low": 239.77,
+      "close": 241.72,
+      "adj_close": 241.72,
+      "volume": 30379274
+    },
+    {
+      "offset_trading_days": 66,
+      "open": 247.41,
+      "high": 248.55,
+      "low": 241.5,
+      "close": 246.93,
+      "adj_close": 246.93,
+      "volume": 22166488
+    },
+    {
+      "offset_trading_days": 65,
+      "open": 254.39,
+      "high": 259.7,
+      "low": 244.77,
+      "close": 252.28,
+      "adj_close": 252.28,
+      "volume": 22344216
+    },
+    {
+      "offset_trading_days": 64,
+      "open": 250.6,
+      "high": 251.18,
+      "low": 241.51,
+      "close": 242.75,
+      "adj_close": 242.75,
+      "volume": 21877571
+    },
+    {
+      "offset_trading_days": 63,
+      "open": 250.45,
+      "high": 251.14,
+      "low": 241.45,
+      "close": 242.61,
+      "adj_close": 242.61,
+      "volume": 13403962
+    },
+    {
+      "offset_trading_days": 62,
+      "open": 253.52,
+      "high": 257.95,
+      "low": 252.09,
+      "close": 256.0,
+      "adj_close": 256.0,
+      "volume": 29049481
+    },
+    {
+      "offset_trading_days": 61,
+      "open": 261.82,
+      "high": 267.36,
+      "low": 259.96,
+      "close": 260.28,
+      "adj_close": 260.28,
+      "volume": 16865399
+    },
+    {
+      "offset_trading_days": 60,
+      "open": 262.9,
+      "high": 266.59,
+      "low": 261.16,
+      "close": 265.16,
+      "adj_close": 265.16,
+      "volume": 16659939
+    },
+    {
+      "offset_trading_days": 59,
+      "open": 269.52,
+      "high": 271.58,
+      "low": 262.31,
+      "close": 266.94,
+      "adj_close": 266.94,
+      "volume": 34220905
+    },
+    {
+      "offset_trading_days": 58,
+      "open": 259.65,
+      "high": 265.25,
+      "low": 258.81,
+      "close": 264.07,
+      "adj_close": 264.07,
+      "volume": 18600559
+    },
+    {
+      "offset_trading_days": 57,
+      "open": 259.86,
+      "high": 265.91,
+      "low": 254.39,
+      "close": 261.24,
+      "adj_close": 261.24,
+      "volume": 19823864
+    },
+    {
+      "offset_trading_days": 56,
+      "open": 261.69,
+      "high": 262.25,
+      "low": 256.6,
+      "close": 261.27,
+      "adj_close": 261.27,
+      "volume": 9816898
+    },
+    {
+      "offset_trading_days": 55,
+      "open": 264.49,
+      "high": 268.66,
+      "low": 262.67,
+      "close": 263.51,
+      "adj_close": 263.51,
+      "volume": 20609667
+    },
+    {
+      "offset_trading_days": 54,
+      "open": 271.3,
+      "high": 276.72,
+      "low": 257.06,
+      "close": 262.84,
+      "adj_close": 262.84,
+      "volume": 27964629
+    },
+    {
+      "offset_trading_days": 53,
+      "open": 261.41,
+      "high": 264.39,
+      "low": 257.95,
+      "close": 264.08,
+      "adj_close": 264.08,
+      "volume": 24847683
+    },
+    {
+      "offset_trading_days": 52,
+      "open": 257.94,
+      "high": 259.72,
+      "low": 254.71,
+      "close": 259.35,
+      "adj_close": 259.35,
+      "volume": 17896745
+    },
+    {
+      "offset_trading_days": 51,
+      "open": 261.66,
+      "high": 263.86,
+      "low": 258.57,
+      "close": 262.11,
+      "adj_close": 262.11,
+      "volume": 13819598
+    },
+    {
+      "offset_trading_days": 50,
+      "open": 250.39,
+      "high": 256.45,
+      "low": 245.48,
+      "close": 255.61,
+      "adj_close": 255.61,
+      "volume": 17488273
+    },
+    {
+      "offset_trading_days": 49,
+      "open": 267.5,
+      "high": 271.14,
+      "low": 261.32,
+      "close": 265.9,
+      "adj_close": 265.9,
+      "volume": 9900114
+    },
+    {
+      "offset_trading_days": 48,
+      "open": 274.47,
+      "high": 278.37,
+      "low": 266.45,
+      "close": 273.95,
+      "adj_close": 273.95,
+      "volume": 22699630
+    },
+    {
+      "offset_trading_days": 47,
+      "open": 265.75,
+      "high": 270.9,
+      "low": 260.93,
+      "close": 262.59,
+      "adj_close": 262.59,
+      "volume": 7244220
+    },
+    {
+      "offset_trading_days": 46,
+      "open": 256.28,
+      "high": 264.97,
+      "low": 250.96,
+      "close": 252.11,
+      "adj_close": 252.11,
+      "volume": 21314248
+    },
+    {
+      "offset_trading_days": 45,
+      "open": 258.08,
+      "high": 261.75,
+      "low": 256.49,
+      "close": 256.74,
+      "adj_close": 256.74,
+      "volume": 20304620
+    },
+    {
+      "offset_trading_days": 44,
+      "open": 266.37,
+      "high": 269.93,
+      "low": 255.26,
+      "close": 258.34,
+      "adj_close": 258.34,
+      "volume": 14719081
+    },
+    {
+      "offset_trading_days": 43,
+      "open": 258.0,
+      "high": 267.74,
+      "low": 257.54,
+      "close": 265.28,
+      "adj_close": 265.28,
+      "volume": 26461570
+    },
+    {
+      "offset_trading_days": 42,
+      "open": 265.43,
+      "high": 265.47,
+      "low": 260.27,
+      "close": 265.02,
+      "adj_close": 265.02,
+      "volume": 40725741
+    },
+    {
+      "offset_trading_days": 41,
+      "open": 266.5,
+      "high": 272.18,
+      "low": 264.64,
+      "close": 266.09,
+      "adj_close": 266.09,
+      "volume": 15255335
+    },
+    {
+      "offset_trading_days": 40,
+      "open": 271.61,
+      "high": 277.63,
+      "low": 266.14,
+      "close": 272.75,
+      "adj_close": 272.75,
+      "volume": 17025770
+    },
+    {
+      "offset_trading_days": 39,
+      "open": 269.78,
+      "high": 276.06,
+      "low": 264.67,
+      "close": 274.28,
+      "adj_close": 274.28,
+      "volume": 28592410
+    },
+    {
+      "offset_trading_days": 38,
+      "open": 281.76,
+      "high": 283.78,
+      "low": 277.31,
+      "close": 281.06,
+      "adj_close": 281.06,
+      "volume": 31021303
+    },
+    {
+      "offset_trading_days": 37,
+      "open": 290.23,
+      "high": 302.55,
+      "low": 286.01,
+      "close": 295.58,
+      "adj_close": 295.58,
+      "volume": 23081824
+    },
+    {
+      "offset_trading_days": 36,
+      "open": 288.9,
+      "high": 290.59,
+      "low": 280.81,
+      "close": 290.48,
+      "adj_close": 290.48,
+      "volume": 22455459
+    },
+    {
+      "offset_trading_days": 35,
+      "open": 287.35,
+      "high": 291.52,
+      "low": 283.17,
+      "close": 286.57,
+      "adj_close": 286.57,
+      "volume": 22983195
+    },
+    {
+      "offset_trading_days": 34,
+      "open": 281.99,
+      "high": 284.86,
+      "low": 278.34,
+      "close": 281.98,
+      "adj_close": 281.98,
+      "volume": 22707426
+    },
+    {
+      "offset_trading_days": 33,
+      "open": 277.23,
+      "high": 286.16,
+      "low": 276.44,
+      "close": 286.14,
+      "adj_close": 286.14,
+      "volume": 15174427
+    },
+    {
+      "offset_trading_days": 32,
+      "open": 278.32,
+      "high": 283.45,
+      "low": 277.64,
+      "close": 282.89,
+      "adj_close": 282.89,
+      "volume": 18101480
+    },
+    {
+      "offset_trading_days": 31,
+      "open": 307.16,
+      "high": 309.76,
+      "low": 295.2,
+      "close": 301.17,
+      "adj_close": 301.17,
+      "volume": 25145847
+    },
+    {
+      "offset_trading_days": 30,
+      "open": 294.08,
+      "high": 296.41,
+      "low": 291.38,
+      "close": 295.09,
+      "adj_close": 295.09,
+      "volume": 16450238
+    },
+    {
+      "offset_trading_days": 29,
+      "open": 283.59,
+      "high": 287.89,
+      "low": 280.58,
+      "close": 283.17,
+      "adj_close": 283.17,
+      "volume": 29546967
+    },
+    {
+      "offset_trading_days": 28,
+      "open": 291.18,
+      "high": 291.73,
+      "low": 289.86,
+      "close": 290.42,
+      "adj_close": 290.42,
+      "volume": 15279795
+    },
+    {
+      "offset_trading_days": 27,
+      "open": 291.84,
+      "high": 297.97,
+      "low": 290.23,
+      "close": 295.98,
+      "adj_close": 295.98,
+      "volume": 21899753
+    },
+    {
+      "offset_trading_days": 26,
+      "open": 295.62,
+      "high": 300.85,
+      "low": 291.36,
+      "close": 300.25,
+      "adj_close": 300.25,
+      "volume": 20664646
+    },
+    {
+      "offset_trading_days": 25,
+      "open": 299.99,
+      "high": 301.18,
+      "low": 287.34,
+      "close": 294.42,
+      "adj_close": 294.42,
+      "volume": 18999391
+    },
+    {
+      "offset_trading_days": 24,
+      "open": 299.24,
+      "high": 308.03,
+      "low": 295.22,
+      "close": 301.49,
+      "adj_close": 301.49,
+      "volume": 22277588
+    },
+    {
+      "offset_trading_days": 23,
+      "open": 318.53,
+      "high": 319.68,
+      "low": 312.67,
+      "close": 314.18,
+      "adj_close": 314.18,
+      "volume": 26515862
+    },
+    {
+      "offset_trading_days": 22,
+      "open": 317.84,
+      "high": 320.69,
+      "low": 303.75,
+      "close": 307.07,
+      "adj_close": 307.07,
+      "volume": 31731731
+    },
+    {
+      "offset_trading_days": 21,
+      "open": 319.12,
+      "high": 324.63,
+      "low": 309.51,
+      "close": 310.71,
+      "adj_close": 310.71,
+      "volume": 37627473
+    },
+    {
+      "offset_trading_days": 20,
+      "open": 305.35,
+      "high": 307.75,
+      "low": 298.5,
+      "close": 306.23,
+      "adj_close": 306.23,
+      "volume": 19807627
+    },
+    {
+      "offset_trading_days": 19,
+      "open": 301.15,
+      "high": 301.51,
+      "low": 287.99,
+      "close": 296.0,
+      "adj_close": 296.0,
+      "volume": 17480838
+    },
+    {
+      "offset_trading_days": 18,
+      "open": 305.32,
+      "high": 308.74,
+      "low": 301.21,
+      "close": 306.79,
+      "adj_close": 306.79,
+      "volume": 21142913
+    },
+    {
+      "offset_trading_days": 17,
+      "open": 306.54,
+      "high": 311.83,
+      "low": 304.76,
+      "close": 307.19,
+      "adj_close": 307.19,
+      "volume": 41396501
+    },
+    {
+      "offset_trading_days": 16,
+      "open": 325.72,
+      "high": 327.03,
+      "low": 316.91,
+      "close": 321.7,
+      "adj_close": 321.7,
+      "volume": 9350375
+    },
+    {
+      "offset_trading_days": 15,
+      "open": 324.88,
+      "high": 333.37,
+      "low": 316.59,
+      "close": 320.61,
+      "adj_close": 320.61,
+      "volume": 25737062
+    },
+    {
+      "offset_trading_days": 14,
+      "open": 311.97,
+      "high": 326.16,
+      "low": 309.05,
+      "close": 321.07,
+      "adj_close": 321.07,
+      "volume": 14799496
+    },
+    {
+      "offset_trading_days": 13,
+      "open": 324.98,
+      "high": 331.44,
+      "low": 321.1,
+      "close": 325.82,
+      "adj_close": 325.82,
+      "volume": 28950462
+    },
+    {
+      "offset_trading_days": 12,
+      "open": 333.84,
+      "high": 335.9,
+      "low": 327.01,
+      "close": 328.25,
+      "adj_close": 328.25,
+      "volume": 21515683
+    },
+    {
+      "offset_trading_days": 11,
+      "open": 331.45,
+      "high": 333.42,
+      "low": 320.31,
+      "close": 325.34,
+      "adj_close": 325.34,
+      "volume": 17017759
+    },
+    {
+      "offset_trading_days": 10,
+      "open": 311.1,
+      "high": 315.77,
+      "low": 304.59,
+      "close": 314.47,
+      "adj_close": 314.47,
+      "volume": 25368253
+    },
+    {
+      "offset_trading_days": 9,
+      "open": 331.92,
+      "high": 336.6,
+      "low": 330.58,
+      "close": 334.73,
+      "adj_close": 334.73,
+      "volume": 13053937
+    },
+    {
+      "offset_trading_days": 8,
+      "open": 326.67,
+      "high": 327.37,
+      "low": 318.73,
+      "close": 324.37,
+      "adj_close": 324.37,
+      "volume": 34290055
+    },
+    {
+      "offset_trading_days": 7,
+      "open": 343.88,
+      "high": 348.14,
+      "low": 338.11,
+      "close": 341.96,
+      "adj_close": 341.96,
+      "volume": 25977103
+    },
+    {
+      "offset_trading_days": 6,
+      "open": 353.54,
+      "high": 362.15,
+      "low": 351.93,
+      "close": 359.98,
+      "adj_close": 359.98,
+      "volume": 34060241
+    },
+    {
+      "offset_trading_days": 5,
+      "open": 354.43,
+      "high": 356.69,
+      "low": 349.15,
+      "close": 354.82,
+      "adj_close": 354.82,
+      "volume": 31503127
+    },
+    {
+      "offset_trading_days": 4,
+      "open": 367.4,
+      "high": 373.15,
+      "low": 362.65,
+      "close": 365.49,
+      "adj_close": 365.49,
+      "volume": 22672995
+    },
+    {
+      "offset_trading_days": 3,
+      "open": 367.61,
+      "high": 368.57,
+      "low": 359.25,
+      "close": 364.16,
+      "adj_close": 364.16,
+      "volume": 22382155
+    },
+    {
+      "offset_trading_days": 2,
+      "open": 364.36,
+      "high": 366.86,
+      "low": 357.49,
+      "close": 360.15,
+      "adj_close": 360.15,
+      "volume": 14561564
+    },
+    {
+      "offset_trading_days": 1,
+      "open": 366.46,
+      "high": 375.01,
+      "low": 354.49,
+      "close": 364.61,
+      "adj_close": 364.61,
+      "volume": 10951378
+    },
+    {
+      "offset_trading_days": 0,
+      "open": 369.2,
+      "high": 369.5,
+      "low": 358.27,
+      "close": 365.62,
+      "adj_close": 365.62,
+      "volume": 18833936
+    }
+  ]
+}

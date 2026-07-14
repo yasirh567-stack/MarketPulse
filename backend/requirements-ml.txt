@@ -1,0 +1,10 @@
+# Optional, heavier ML/NLP dependencies. Install with:
+#   pip install -r requirements.txt -r requirements-ml.txt
+#
+# The application detects at runtime whether these are importable and
+# degrades gracefully (FinBERT -> VADER, SHAP -> permutation importance) if
+# they are not installed, so this file is entirely optional.
+
+torch==2.5.1
+transformers==4.47.0
+shap==0.46.0
